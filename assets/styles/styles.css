@@ -9,10 +9,10 @@ body {
   display: -ms-grid;
   display: grid;
   place-content: center;
-  -ms-grid-columns: (40px)[18];
-      grid-template-columns: repeat(18, 40px);
-  -ms-grid-rows: (40px)[18];
-      grid-template-rows: repeat(18, 40px);
+  -ms-grid-columns: (35px)[18];
+      grid-template-columns: repeat(18, 35px);
+  -ms-grid-rows: (35px)[18];
+      grid-template-rows: repeat(18, 35px);
   height: 100%;
 }
 
